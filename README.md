@@ -21,8 +21,6 @@ Here are some ideas to get you started:
         <meta name="author" content="Ashley Shanks">
 </head>
 <body>
-        <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Ashley 👋 I'm excited to learn HTML, CSS, & Java I ❤️ UX Design ❤️">
-
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=undercoverfinch&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
      <ul>
         <li>🔭 I’m currently working on <b>getting a degree in UI/UX design</b></li>
