@@ -25,9 +25,8 @@ Here are some ideas to get you started:
      <ul>
         <li>🔭 I’m currently working on <b>getting a degree in UI/UX design</b></li>
         <li>🌱 I’m currently learning <b>HTML</b></li>
-        <li>👯 I’m looking to collaborate on <b>creating websites</b></li>
         <li>🤔 I’m looking for help with <b>finding internships</b></li>
-        <li>📫 How to reach me: <b>Email me at ashleynshanks@gmail.com!</b></li>
+        <li>📫 How to reach me: <b>Email me at ashleynshanks@gmail.com</b></li>
         <li>😄 Pronouns: <b>she/her</b></li>
         <li>⚡ Fun fact: <b>I love my African Fat-Tailed Gecko!</b></li>
     </ul>
