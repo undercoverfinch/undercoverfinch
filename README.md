@@ -24,10 +24,10 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=undercoverfinch&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
      <ul>
         <li>🔭 I’m currently working on <b>getting a degree in Graphic Information Technologies (Full-Stack Development!)</b></li>
-        <li>🌱 I’m currently learning <b>HTML & CSS</b></li>
+        <li>🌱 I’m currently learning <b>Javascript & Java</b></li>
         <li>🤔 I’m looking for help with <b>finding internships</b></li>
         <li>📫 How to reach me: <b>Email me at ashleynshanks@gmail.com</b></li>
         <li>😄 Pronouns: <b>she/her</b></li>
-        <li>⚡ Fun fact: <b>I love my African Fat-Tailed Gecko!</b></li>
+        <li>⚡ Fun fact: <b>I love my void kitty Delilah!</b></li>
     </ul>
 </html>
