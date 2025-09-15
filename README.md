@@ -21,7 +21,7 @@ Here are some ideas to get you started:
         <meta name="author" content="Ashley Shanks">
 </head>
 <body>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=undercoverfinch&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=undercoverfinch&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
      <ul>
         <li>🔭 I’m currently working on <b>getting a degree in Graphic Information Technologies (Full-Stack Development!)</b></li>
         <li>🌱 I’m currently learning <b>Javascript & Java</b></li>
